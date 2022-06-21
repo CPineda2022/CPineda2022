@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CPineda2022
 - 👀 I’m interested in history, astronomy, books, data
-- 🌱 I’m currently learning sql but looking forward to learn more on coding
+- 🌱 I’m currently learning sql and R but looking forward to learn more on coding
 - 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me you can message me here or email at cris.pineda1018@gmail.com
 
