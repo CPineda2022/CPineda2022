@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Cris! @CPineda2022
-- Taking up BS Hons in Computing and IT
+- Currently BS Hons in Computing and IT, majoring in Software Engineering and Development
 - 👀 I’m interested in history, astronomy, books, computer science
-- 🌱 I'm a work in progress in Python, SQL and R
-- 💞️ I’m looking to collaborate on data analytics or any coding projects
+- 🌱 I'm a work in progress in Python, Java, Javascript and SQL.
+- 💞️ I’m looking forward to more learning and improving my skills
 - 📫 How to reach me you can message me here or email at cris.pineda1018@gmail.com
 
 <!---
