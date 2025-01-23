@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cris! @CPineda2022
-- Currently BS Hons in Computing and IT, majoring in Software Engineering and Development
+- Currently studying BS Hons in Computing and IT, majoring in Software Engineering and Development
 - 👀 I’m interested in history, astronomy, books, computer science
 - 🌱 I'm a work in progress in Python, Java, Javascript and SQL.
 - 💞️ I’m looking forward to more learning and improving my skills
